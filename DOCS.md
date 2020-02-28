@@ -1,3 +1,6 @@
+PLEASE REFER TO RAW FILE FOR READABILITY. WE APOLOGIZE FOR THE INCONVENIENCE
+
+
 PACKAGE INSTALLATION
 
 sudo apt install nginx mariadb-server mariadb-client php7.2 php7.2-fpm
