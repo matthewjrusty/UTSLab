@@ -1,0 +1,16 @@
+<rss version="2.0">
+<channel>
+<title>My new wiki: Comments</title>
+<link>http://_:80/index.php</link>
+<description>RSS comments feed from My new wiki</description>
+<language>en-US</language>
+
+<item>
+	<title>Main page</title>
+	<pubDate>Fri, 28 Feb 2020 15:34:07 +0700</pubDate>
+	<link>http://_:80/index.php?page=Main+page#20200228-1534-07</link>
+	<description><pre>127.0.0.1	Evan Haryono	cheikotesu8@gmail.com
+This is my first wiki.</pre></description>
+</item>
+</channel>
+</rss>

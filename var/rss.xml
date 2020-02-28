@@ -1,0 +1,44 @@
+<rss version="2.0">
+<channel>
+<title>My new wiki</title>
+<link>http://_:80/index.php</link>
+<description>RSS feed from My new wiki</description>
+<language>en-US</language>
+
+	<item>
+	  <title>Matthew's information</title>
+	  <pubDate>Fri, 28 Feb 2020 15:50:17 +0700</pubDate>
+	  <link>http://_:80/index.php?page=Matthew%27s+information</link>
+	  <description><pre id="diff"><ins>Hi nama saya Matthew</ins>
+</pre></description>
+	</item>
+
+	<item>
+	  <title>Evan's information</title>
+	  <pubDate>Fri, 28 Feb 2020 15:50:07 +0700</pubDate>
+	  <link>http://_:80/index.php?page=Evan%27s+information</link>
+	  <description><pre id="diff"><ins>Hi nama saya Evan</ins>
+</pre></description>
+	</item>
+
+	<item>
+	  <title>Main page</title>
+	  <pubDate>Fri, 28 Feb 2020 15:46:52 +0700</pubDate>
+	  <link>http://_:80/index.php?page=Main+page</link>
+	  <description><pre id="diff">Hello, this is the main page!
+<ins>There are two pages: [Evan's information] and [Matthew's information]. Feel free to check each of them.</ins>
+</pre></description>
+	</item>
+
+	<item>
+	  <title>Main page</title>
+	  <pubDate>Fri, 28 Feb 2020 15:33:23 +0700</pubDate>
+	  <link>http://_:80/index.php?page=Main+page</link>
+	  <description><pre id="diff"><ins>Hello, this is the main page!</ins>
+</pre></description>
+	</item>
+
+
+
+</channel>
+</rss>
