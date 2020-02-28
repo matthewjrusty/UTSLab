@@ -1,0 +1,2 @@
+Hello, this is the main page!
+There are two pages: [Evan's information] and [Matthew's information]. Feel free to check each of them.
