@@ -6,6 +6,7 @@ sudo service php7.2-fpm start
 curl -4 icanhazip.com
 sudo mysql_secure_installation
 
+
 NGINX SERVER SETUP
 cd /etc/nginx/sites-available/
 sudo touch midtest
@@ -23,4 +24,14 @@ cd /var/www/html/
 sudo nano info.php
 sudo rm info.php
 
+
+
+LION WIKI
+wget https://lionwiki.0o.cz/downlaod/3.2.11/lionwiki-3.2.11.zip
+sudo apt install unzip
+sudo unzip lionwiki-3.2.11.zip
+cd lionwiki-3.2.11
+sudo mv * ..
+cd ..
+sudo chmod 777 /var
 
